@@ -1,0 +1,13 @@
+
+GET http://localhost:3333/api/battles/public HTTP/1.1
+
+###
+
+GET http://localhost:3333/api/battles/private HTTP/1.1
+
+###
+
+#get token from https://manage.auth0.com/dashboard/us/iamnotmyself/apis/5c773675b2a51241133e620e/test
+
+GET http://localhost:3333/api/battles/private HTTP/1.1
+Authorization: Bearer {TEST_TOKEN}

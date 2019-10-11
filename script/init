@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+pushd ./client
+[ ! -f ".env" ] && cp .env_sample .env
+npm install
+popd
+
+pushd ./server
+[ ! -f ".env" ] && cp .env_sample .env
+npm install
+popd

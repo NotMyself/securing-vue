@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Starting"
+npm run dev --prefix ./server & npm run serve --prefix ./client && fg
