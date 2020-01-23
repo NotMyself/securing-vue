@@ -14,6 +14,10 @@ Did you get this link from seeing a presentation I did on **Securing Vue.js with
 - [Announcing the General Availability of the Auth0 SPA JS SDK](https://community.auth0.com/t/announcing-the-general-availability-of-the-auth0-spa-js-sdk/27399)
 - [Auth0 SPA SDK Docs](https://auth0.github.io/auth0-spa-js/index.html)
 
+Here is a recording of this presentation given at Armada JS 2019. Feel free to share with your team.
+
+[Securing Vue.js with OpenID Connect and OAuth by Bobby Johnson](https://www.youtube.com/watch?v=r0BCki3U2AM)
+
 ## Getting Started
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/), the [Insiders Edition](https://code.visualstudio.com/insiders) is highly recommended.
