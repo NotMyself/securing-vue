@@ -4,6 +4,16 @@ This application is a starting point application for demos. It is based on the [
 
 ![Vue Example](/docs/images/screenshot.png?raw=true "Vue Example")
 
+## Presentation Materials
+
+Did you get this link from seeing a presentation I did on **Securing Vue.js with OpenID Connect and OAuth2**? Here are some further reading materials for the presentation.
+
+- [Slide Deck](https://www.slideshare.net/secret/2keSpaXJYIWIq1)
+- [OWASP HTML5 Security - Local Storage](https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#local-storage)
+- [OAuth 2.0 for Browser-Based Apps](https://tools.ietf.org/html/draft-parecki-oauth-browser-based-apps-02)
+- [Announcing the General Availability of the Auth0 SPA JS SDK](https://community.auth0.com/t/announcing-the-general-availability-of-the-auth0-spa-js-sdk/27399)
+- [Auth0 SPA SDK Docs](https://auth0.github.io/auth0-spa-js/index.html)
+
 ## Getting Started
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/), the [Insiders Edition](https://code.visualstudio.com/insiders) is highly recommended.
