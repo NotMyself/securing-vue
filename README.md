@@ -18,6 +18,10 @@ Here is a recording of this presentation given at Armada JS 2019. Feel free to s
 
 [Securing Vue.js with OpenID Connect and OAuth by Bobby Johnson](https://www.youtube.com/watch?v=r0BCki3U2AM)
 
+If you would like to get some hands on experience using OAuth and OIDC, check out these self-paced labs that cover: web signin, calling an api, mobile applications and single page applications!
+
+- [Auth0 Identity Labs](https://auth0.com/docs/identity-labs/)
+
 ## Getting Started
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/), the [Insiders Edition](https://code.visualstudio.com/insiders) is highly recommended.
