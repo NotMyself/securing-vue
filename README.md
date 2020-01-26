@@ -14,8 +14,10 @@ This application is a starting point application for demos. It is based on the [
 1. Open the integrated terminal in code <kbd>Ctrl</kbd>+<kbd>`</kbd>
 1. Run the init script `./script/init`
 1. [Register for Application Keys](https://auth0.com/docs/quickstart/spa/vuejs#get-your-application-keys)
+    - Set the **Allowed Callback URLs**, **Allowed Web Origins** and **Allowed Logout Urls** to `http://localhost:8080`
 1. Update **/client/.env** with the appropriate values.
 1. [Register an API](https://auth0.com/docs/quickstart/backend/nodejs#create-an-api)
+    - Set the **Identifier** to `https://startup-battle`
 1. Update **/server/.env** with the appropriate values.
 1. Run the start script `./script/start`
 
