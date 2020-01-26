@@ -4,29 +4,11 @@ This application is a starting point application for demos. It is based on the [
 
 ![Vue Example](/docs/images/screenshot.png?raw=true "Vue Example")
 
-## Presentation Materials
-
-Did you get this link from seeing a presentation I did on **Securing Vue.js with OpenID Connect and OAuth2**? Here are some further reading materials for the presentation.
-
-- [Slide Deck](https://www.slideshare.net/secret/2keSpaXJYIWIq1)
-- [OWASP HTML5 Security - Local Storage](https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#local-storage)
-- [OAuth 2.0 for Browser-Based Apps](https://tools.ietf.org/html/draft-parecki-oauth-browser-based-apps-02)
-- [Announcing the General Availability of the Auth0 SPA JS SDK](https://community.auth0.com/t/announcing-the-general-availability-of-the-auth0-spa-js-sdk/27399)
-- [Auth0 SPA SDK Docs](https://auth0.github.io/auth0-spa-js/index.html)
-
-Here is a recording of this presentation given at Armada JS 2019. Feel free to share with your team.
-
-[Securing Vue.js with OpenID Connect and OAuth by Bobby Johnson](https://www.youtube.com/watch?v=r0BCki3U2AM)
-
-If you would like to get some hands on experience using OAuth and OIDC, check out these self-paced labs that cover: web signin, calling an api, mobile applications and single page applications!
-
-- [Auth0 Identity Labs](https://auth0.com/docs/identity-labs/)
-
 ## Getting Started
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/), the [Insiders Edition](https://code.visualstudio.com/insiders) is highly recommended.
 1. Ensure you have vue and nodemon globally installed `npm install -g @vue/cli nodemon`
-1. Clone the repository `git clone https://github.com/NotMyself/2019-nyc-code-camp-securing-vue.git vue-example`
+1. Clone the repository `git clone https://github.com/NotMyself/securing-vue.git vue-example`
 1. Change directory into the cloned repository `cd vue-example`
 1. Open the workspace `code vue-example.code-workspace`
 1. Open the integrated terminal in code <kbd>Ctrl</kbd>+<kbd>`</kbd>
@@ -71,3 +53,22 @@ You can open the `example.http` file in the `server` directory to test the api w
 Simply, click the `Send Request` link above the API call you want to make.
 
 ![Rest Client Usage](/docs/images/example.http.gif?raw=true "Rest Client Usage")
+
+## Presentation Materials
+
+Did you get this link from seeing a presentation I did on **Securing Vue.js with OpenID Connect and OAuth2**? Here are some further reading materials for the presentation.
+
+- [Slide Deck](https://www.slideshare.net/secret/2keSpaXJYIWIq1)
+- [OWASP HTML5 Security - Local Storage](https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#local-storage)
+- [OAuth 2.0 for Browser-Based Apps](https://tools.ietf.org/html/draft-parecki-oauth-browser-based-apps-02)
+- [Announcing the General Availability of the Auth0 SPA JS SDK](https://community.auth0.com/t/announcing-the-general-availability-of-the-auth0-spa-js-sdk/27399)
+- [Auth0 SPA SDK Docs](https://auth0.github.io/auth0-spa-js/index.html)
+
+Here is a recording of this presentation given at Armada JS 2019. Feel free to share with your team.
+
+[Securing Vue.js with OpenID Connect and OAuth by Bobby Johnson](https://www.youtube.com/watch?v=r0BCki3U2AM)
+
+If you would like to get some hands on experience using OAuth and OIDC, check out these self-paced labs that cover: web signin, calling an api, mobile applications and single page applications!
+
+- [Auth0 Identity Labs](https://auth0.com/docs/identity-labs/)
+
